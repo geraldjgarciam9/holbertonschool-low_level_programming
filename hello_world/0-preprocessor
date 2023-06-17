@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc "$CFILE" -o ejecutable | ejecutable > c \
+gcc "$CFILE" -o ejecutable > c \
