@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- *int main - es la funcion principal
+ *int main - prints "programming is like building a multilingual puzsle"
+ *return 0
  */
 int main(void)
 {
