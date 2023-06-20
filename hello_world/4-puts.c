@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  *int main - prints "programming is like building a multilingual puzsle"
- *return 0
+ *
+ *Return 0 - devuelve el valor 0 como predeterminado
  */
 int main(void)
 {
