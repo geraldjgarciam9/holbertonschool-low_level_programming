@@ -4,14 +4,14 @@
  *
  *Return: devuelve 0
  */
-int main (void)
+int main()
 {
-printf(sizeof(char));
-printf(sizeof(int));
-printf(sizeof(float));
-printf(sizeof(double));
-printf(sizeof(short));
-printf(sizeof(long));
-printf(sizeof(long long));
+ printf("%zu bytes\n", sizeof(char));
+ printf("%zu bytes\n", sizeof(int));
+ printf("%zu bytes\n", sizeof(float));
+ printf("%zu bytes\n", sizeof(double));
+ printf("%zu bytes\n", sizeof(short));
+ printf("%zu bytes\n", sizeof(long));
+ printf("%zu bytes\n", sizeof(long long));
 return (0);
 }
