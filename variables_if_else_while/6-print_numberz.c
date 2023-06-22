@@ -9,8 +9,7 @@ int main(void)
 int numero;
 for (numero = 0; numero <= 9; numero++)
 {
-printf("%d", numero);
+putchar(numero);
 }
-printf("\n");
 return (0);
 }
