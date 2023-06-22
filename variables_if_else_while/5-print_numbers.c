@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - escribe los numeros del 0 al 9
- * 
+ *
  * Return: retorna 0
  */
 int main(void)
