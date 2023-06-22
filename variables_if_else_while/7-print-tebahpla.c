@@ -1,0 +1,16 @@
+#include <stdio.h>
+/**
+ * main - escribe el alfabeto invertido
+ *
+ * Return: retorna 0
+ */
+int main(void)
+{
+char numero;
+for (numero = 'z'; numero >= 'a'; numero--)
+{
+putchar(numero);
+}
+putchar('\n');
+return (0);
+}
