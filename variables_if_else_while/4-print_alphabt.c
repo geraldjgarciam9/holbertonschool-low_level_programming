@@ -4,8 +4,9 @@
  *
  *Return: retorna 0
  */
-int main() {
-    char letra;
+int main(void)
+{
+char letra;
 for (letra = 'a'; letra <= 'z'; letra++)
 {
 if (letra != 'q' && letra != 'e')
