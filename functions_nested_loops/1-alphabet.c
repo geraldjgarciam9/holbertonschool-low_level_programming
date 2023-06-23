@@ -4,17 +4,6 @@
  *
  *Return: letra
  **/
-void print_alphabet(void);
-/**
- * main - funcion principal
- *
- *Return: retorna 0
- **/
-int main(void)
-{
-print_alphabet();
-return (0);
-}
 void print_alphabet(void)
 {
 char letra;
