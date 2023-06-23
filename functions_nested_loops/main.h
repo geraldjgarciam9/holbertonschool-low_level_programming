@@ -1,1 +1,1 @@
-print_alphabet(char);
+voild print_alphabet(voild);
