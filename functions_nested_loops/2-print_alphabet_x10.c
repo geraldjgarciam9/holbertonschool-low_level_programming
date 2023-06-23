@@ -6,7 +6,7 @@
 */
 void print_alphabet_x10(void)
 {
-int i=1;
+int i = 0;
 char letra;
 while (i < 10)
 {
@@ -14,7 +14,7 @@ for (letra = 'a'; letra <= 'z'; letra++)
 {
 putchar(letra);
 }
-}
-i++;
 putchar('\n');
+i++;
+}
 }
