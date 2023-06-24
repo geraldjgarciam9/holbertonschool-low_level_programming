@@ -6,10 +6,9 @@
 *
 *Return:retorna el ultimo digito
 **/
-int print_last_digit(int);
-int print_last_digit(int)
+int print_last_digit(int num);
+int print_last_digit(int num)
 {
-int num;
 int ultimo_digito = num % 10;
 return (ultimo_digito);
 }
