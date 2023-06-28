@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
 *jack_bauer - funcion que retorna los minutos
-*@horas: almacena el conteo de las horas
-*@minutos: almacena el conteo de los minutos
+*
+*Return: void
 */
 void jack_bauer(void);
 void jack_bauer(void)
