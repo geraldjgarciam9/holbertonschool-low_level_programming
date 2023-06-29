@@ -19,5 +19,5 @@ i++;
 }
 }
 putchar('\n');
-return (str);
+return (i);
 }
