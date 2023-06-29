@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*reset_to_98 - ubica el puntero en la piscion 98 
+*reset_to_98 - ubica el puntero en la piscion 98
 *@n: almacena el numero dado
 *
 *Return: actualiiza el puntero
