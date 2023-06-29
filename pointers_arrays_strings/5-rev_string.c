@@ -2,7 +2,7 @@
 #include <string.h>
 /**
 *rev_string - imprime una cadena al reves
-*@*s: puntero
+*@s: puntero
 *
 *Return: la cadena invertida
 */
