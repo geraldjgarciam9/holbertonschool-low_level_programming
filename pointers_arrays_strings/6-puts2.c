@@ -16,11 +16,7 @@ if (i % 2 == 0)
 {
 putchar(str[i]);
 i++;
-i++;
-i++;
-i++;
 }
-i++;
+}
 putchar('\n');
-}
 }
